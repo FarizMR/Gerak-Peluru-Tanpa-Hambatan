@@ -1,3 +1,4 @@
+import math
 sudut = 35
 y = 0
 v = 50
